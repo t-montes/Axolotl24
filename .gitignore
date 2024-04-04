@@ -1,0 +1,4 @@
+task/
+__pycache__/
+*.env
+!template.env
