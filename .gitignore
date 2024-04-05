@@ -2,3 +2,4 @@ task/
 __pycache__/
 *.env
 !template.env
+.DS_STORE

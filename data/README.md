@@ -1,6 +1,6 @@
 # AXOLOTL - Finnish and Russian training and development data
 
-> Taken from [Axolotl24 original data folder](https://github.com/ltgoslo/axolotl24_shared_task/tree/main/data)
+> Taken from [Axolotl24 shared task data folder](https://github.com/ltgoslo/axolotl24_shared_task/tree/main/data)
 
 The `russian` and `finnish` directories contain the training and development data for the AXOLOTL shared task. 
 **The test sets will be published on March 25, 2024**.
