@@ -1,5 +1,11 @@
 task/
-__pycache__/
+embeddings/examples/*
+embeddings/glosses/*
 *.env
-!template.env
+
 .DS_STORE
+__pycache__/
+.vscode/
+
+!template.env
+!*.gitkeep
