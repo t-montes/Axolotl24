@@ -2,6 +2,7 @@ task/
 embeddings/examples/*
 embeddings/glosses/*
 embeddings/non-used/
+data/test-mod/*
 *.env
 *.log
 
