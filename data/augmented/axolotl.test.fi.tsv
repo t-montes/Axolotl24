@@ -6783,7 +6783,7 @@ arificial_test_fi_6802	hajallinen	Hajallinen	hajallinen_VB4ah71EoWQ	erillään, 
 arificial_test_fi_6803	hajallinen	Hajallinen	hajallinen_VB4ah71EoWQ	erillään, siellä täällä oleva	Hajallinen asutus: Alue, jossa asuinrakennukset sijaitsevat erillään toisistaan ja ovat siellä täällä hajallaan.	54:64	1650	old
 arificial_test_fi_6804	haikeasti	haikiammast	haikeasti_M68d6z64DTQ	katkerasti; hartaasti; julmasti	Hän katsoi haikeasti taakseen, kun hänen rakkaansa astui lentokoneeseen ja lähti kauas pois.	12:23	1650	old
 arificial_test_fi_6805	haikeasti	haikiammast	haikeasti_M68d6z64DTQ	katkerasti; hartaasti; julmasti	Vanha mies istui haikeasti haudalla ja muisteli menetettyjä rakkaitaan.	12:23	1650	old
-arificial_test_fi_6806	ja	ia	ja_gl7DgAblFoI	ei – eikä	Hän ei puhu eikä kuuntele.	11:13	1600	old
+arificial_test_fi_6806	ja	ia	ja_gl7DgAblFoI	ei – eikä	Hän ei puhu ja ei kuuntele.	11:13	1600	old
 arificial_test_fi_6807	ja	ja	ja__zb6IGH1WkY	adverbina: myös	Hän puhui sujuvasti englantia ja ranskaa.	67:69	1650	old
 arificial_test_fi_6808	ja	ja	ja__zb6IGH1WkY	adverbina: myös	Ostin leivän ja maitoa kaupasta.	67:69	1650	old
 arificial_test_fi_6809	lakea	lakiax	lakea_FT0NDvByV_Y	kevytmielinen, käytökseltään sopimaton	Hän oli juhlien aikana lakea ja aiheutti hämmennystä käytöksellään.	55:61	1650	old
@@ -6809,12 +6809,12 @@ arificial_test_fi_6828	kaakottaa	kakotta	kaakottaa_zoZkT4LNsxw	vuolaasta ja ärs
 arificial_test_fi_6829	oikein	oikemmin	oikein_PsSjbzmSJL0	oikeastaan, paremminkin	Oikeastaan, en haluaisi lähteä ulos tänään.	22:30	1600	old
 arificial_test_fi_6830	oikein	oikemmin	oikein_PsSjbzmSJL0	oikeastaan, paremminkin	Paremminkin, voisin kuvata sitä onnistumiseksi kuin epäonnistumiseksi.	22:30	1600	old
 arificial_test_fi_6831	oikein	oikein	oikein_MWO2thW8sT8	olla eettisesti hyväksyttävää, toivottavaa	On oikein auttaa lähimmäisiä vaikeuksissa.	26:32	1543	old
-arificial_test_fi_6832	oikein	oikein	oikein_YLK13L4xOfU	suoraan, ilman mutkia	Hän vastasi kysymykseen suoraan ja ilman mutkia.	59:65	1543	old
+arificial_test_fi_6832	oikein	oikein	oikein_YLK13L4xOfU	suoraan, ilman mutkia	Hän vastasi kysymykseen oikein, suoraan ja ilman mutkia.	59:65	1543	old
 arificial_test_fi_6833	oikein	oikein	oikein_YLK13L4xOfU	suoraan, ilman mutkia	Kävelin oikein päin suoraan ja ilman mutkia.	59:65	1543	old
 arificial_test_fi_6834	povi	powesa	povi_GKRRjm-KdIg	vatsa, sisikunta	Hänen poveaan kivisti voimakas vatsakipu.	52:58	1650	old
 arificial_test_fi_6835	povi	powesa	povi_GKRRjm-KdIg	vatsa, sisikunta	Lääkäri tutki hänen povensa ja totesi, että sisikunnassa oli tulehdus.	52:58	1650	old
-arificial_test_fi_6836	povi	poves	povi_k6OvZdvoz1U	kohtu	Naisen rintakehän etuosa, erityisesti rintojen alue.	30:35	1600	old
-arificial_test_fi_6837	povi	poves	povi_k6OvZdvoz1U	kohtu	Runollisesti tai kuvainnollisesti käytettynä naisen rintojen symboli tai viittaus niihin.	30:35	1600	old
+arificial_test_fi_6836	povi	poves	povi_k6OvZdvoz1U	kohtu	Naisen povi, erityisesti rintojen etuosa.	30:35	1600	old
+arificial_test_fi_6837	povi	poves	povi_k6OvZdvoz1U	kohtu	askaana oleva nainen tunsi vauvan liikkeet poveensa.	30:35	1600	old
 arificial_test_fi_6838	povi	Poui	povi_TIs1zPg3HwI	jonkin yhteydessä, piirissä olemiseen tai hallintaan, ohjaamiseen liittyvissä ilmauksissa	"- ""Hän piti tiukasti poven ohjaksissa ja varmisti, että kaikki sujui suunnitellusti."""	0:4	1543	old
 arificial_test_fi_6839	paiste	paisten	paiste_RlAikHqQfCk	mahti, kunnia	Paiste loisti hänen ympärillään, kun hän astui lavalle vastaanottamaan ansaitsemaansa palkintoa.	113:120	1650	old
 arificial_test_fi_6840	paiste	paiste	paiste_06kx2HPLuPQ	ulkonäkö	Aurinko paistoi kirkkaasti taivaalla, luoden lämpimän ja valoisan ulkonäön ympäristöön.	32:38	1543	old
@@ -7220,6 +7220,6 @@ arificial_test_fi_7239	mutka	mutkia	mutka_F9Wy-sT0bck	asian (saama) käänne, mu
 arificial_test_fi_7240	mutka	mutcall	mutka_W3V9FSePq1U	vaatteen kirjailusta	Vaatteen kirjailusta tehty mutka koristaa hienosti hameen helmaa.	23:30	1600	old
 arificial_test_fi_7241	mutka	mutcain	mutka_OOpbXCuf97s	laulun sävelkulusta	Kappaleen sävelkulku kulkee tasaisesti eteenpäin, kunnes se yhtäkkiä tekee mutkan ja laskee alaspäin.	24:31	1600	old
 arificial_test_fi_7242	mutka	mutcain	mutka_OOpbXCuf97s	laulun sävelkulusta	Laulun sävelkulku sisältää useita mutkia, kun se vaihtelee korkealta matalalle ja takaisin korkealle.	24:31	1600	old
-arificial_test_fi_7243	mutka	mutkall	mutka_HsIpNwQCuO8	juoni, temppu, metku	Hän suunnitteli tarkasti juonen, jolla sai huijattua vastustajansa ja voitti pelin.	59:66	1600	old
-arificial_test_fi_7244	mutka	mutkall	mutka_HsIpNwQCuO8	juoni, temppu, metku	Poika keksi hauskan tempun, jolla sai ystävänsä nauramaan.	59:66	1600	old
+arificial_test_fi_7243	mutka	mutkall	mutka_HsIpNwQCuO8	juoni, temppu, metku	Hän suunnitteli pienen mutkan auton eteen, jotta voisi välttää ruuhkan.	59:66	1600	old
+arificial_test_fi_7244	mutka	mutkall	mutka_HsIpNwQCuO8	juoni, temppu, metku	Lapsi veti hauskan mutkan, jotta voisi voittaa kaverinsa kilpailussa.	59:66	1600	old
 arificial_test_fi_7245	neuloa	neulomahan	neuloa_rYtfFv0X8yQ	ommella, kirjailla	Hän istui sohvalla ja neuloi kauniin kukkakuvion tyynyliinaan.	53:63	1650	old
