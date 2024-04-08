@@ -1,4 +1,14 @@
 task/
-__pycache__/
+embeddings/examples/*
+embeddings/glosses/*
+embeddings/non-used/
+data/test-mod/*
 *.env
+*.log
+
+.DS_STORE
+__pycache__/
+.vscode/
+
 !template.env
+!*.gitkeep
