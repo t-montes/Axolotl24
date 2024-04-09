@@ -242,7 +242,7 @@ test_fi_239	hätä-tila	hätä tilasa		Hätä tarkoittaa tässä tilanteessa poi
 test_fi_240	hätä-tila	Hätätilasa	haetae-tila_TgVmuS5yrZU	hätätilanne, pakkotilanne	Cosca sencaltainen Hätätilasa castettu Lapsi tule woimaans	19:29	1650	old
 test_fi_241	hätä-tila	hätä tilasa		Susi ei ennen kuin nälkäisenä ja suurimmassa hätätilassa ryhdy sellaiseen myrkylliseen elämään.	[Susi ei] ennen kuin nälääldä hiwutettuna ja suurimmasa hätä tilasa ryhdy senkaldaiseen [myrkylliseen] elandoon	56:67	1750	new
 test_fi_242	hätä-tila	hätätilasa		Joca oikiasa hengen hätätilasa itzens warjella tahto tarkoittaa tilannetta, jossa henkilö on vakavassa hengenvaarassa ja pyrkii suojelemaan itseään.	joca oikiasa hengen hätätilasa itzens warjella tahto	20:30	1750	new
-test_fi_243	hätä-tila	hätä tiloixi		"JSON avaimella ""definition"" palautettu monisanainen määritelmä sanalle ""hätä"" on: ""tilanteet, joissa kristityt ovat varustautuneet tulevaisuutta varten, vaikeita tilanteita, tiettyjä aikoja, joissa koetaan kovuutta"""	[Kristityt] owat myös warustetut tulewaisixi, hätä tiloixi, nijxi ajoixi, koska kowuus kohta	46:58	1750	new
+test_fi_243	hätä-tila	hätä tiloixi		tilanteet, joissa kristityt ovat varustautuneet tulevaisuutta varten, vaikeita tilanteita, tiettyjä aikoja, joissa koetaan kovuutta	[Kristityt] owat myös warustetut tulewaisixi, hätä tiloixi, nijxi ajoixi, koska kowuus kohta	46:58	1750	new
 test_fi_244	hätä-tila	hätätilasa		Hätätilassa ja tarpeessa	Ei mahda holhoja myydä wallanalaisten Lasten maata – – muutoin cuin hätätilasa ja tarpesa	68:78	1750	new
 test_fi_245	hätä-tila	hätä tilaa		"""Hätä tila tarkoittaa tilannetta, jossa oikeat kristityt eivät voi välttyä julkisesta Jumalan palveluksesta."""	Oikiat Christityt ei mahda koskan estyä julkisesta Jumalan palweluxesta, paitzi hätä tilaa	80:90	1750	new
 test_fi_246	neitse	neidzens	neitse_gdPmbJNvwFc	hovineito, -nainen	Pharaon tytär – – ja hänen neidzens	27:35	1600	old
@@ -1625,7 +1625,7 @@ test_fi_1630	koreilla	coreilewat	koreilla__zn89L4Rtpo	ylpeillä, kerskailla, mah
 test_fi_1631	koreilla	Corele		Corele toisten Häisäs tarkoittaa suomen kielen murresanaa, joka tarkoittaa toisten ihmisten häissä tapahtuvaa juhlimista tai osallistumista.	Corele toisten Häisäs 	0:6	1700	new
 test_fi_1632	koreilla	coreillu	koreilla_jgzwmdJzwcs	esiintyä kauniina, koreana; esiintyä komeasti, suurellisesti	mixei hän nijn coreillu ja candanut culda käädyiä	15:23	1650	old
 test_fi_1633	koreilla	coreillan	koreilla_Go0p8S_GXxM	koristella, kaunistaa	Cusa se [siveys] on, sitä seuratan, cusa ei se ole, nijn sitä toiwotan ja sitä coreillan ijancaickisella caunistuxella	79:88	1600	old
-test_fi_1634	koreilla	koreili		Definition: Kissa-Ilwes koreili, pöyhisteli ja ylpeili kerran, hänen kirjawan nahkansa yli.	Kissa-Ilwes koreili, pöyhisteli ja ylpeili kerran, hänen kirjawan nahkansa yli	12:19	1750	new
+test_fi_1634	koreilla	koreili		Kissa-Ilwes koreili, pöyhisteli ja ylpeili kerran, hänen kirjawan nahkansa yli.	Kissa-Ilwes koreili, pöyhisteli ja ylpeili kerran, hänen kirjawan nahkansa yli	12:19	1750	new
 test_fi_1635	koreilla	corell		"""uskonnollinen, pyhä"""	Jumalinen, hurskas oli – – Ei corell waan siwost eli	30:36	1700	new
 test_fi_1636	koreilla	coreilla		ylpeillä ja coreilla muitten ylitse, ylöncatzoa muita	ylpeillä ja coreilla muitten ylitze, ylöncatzoa muita	12:20	1700	new
 test_fi_1637	koreilla	koreilla		pahat tavat saavat niin koreilla avuin nimen alla	pahat tawat saawat nijn koreilla awuin nimen alla	24:32	1750	new
@@ -2134,7 +2134,7 @@ test_fi_2139	pois-heittää	poisheittäpä	pois-heittaeae_1j8y9EEG8gY	hylättäv
 test_fi_2140	pois-heittää	poisheittä		Itzecukin järjellinen taitaa sen tietä, ettei yhtä Lasta sowi sentähden poisheittä, että se on saastutettu ja socaistu loasans.	Itzecukin järjellinen taitaa sen tietä, ettei yhtä Lasta sowi sentähden poisheittä, että se on saastutettu ja socaistu loasans	72:82	1700	new
 test_fi_2141	pois-heittää	poisheitete	pois-heittaeae_Bg46KK0Y2lk	hylätä; luopua jostakin; jättää (auttamatta, hoitamatta, oman onnensa nojaan); pitää arvottomana	Jos hen langepi, nin ei hen poisheitete, Sille Herra tukepi henen kädheste	28:39	1543	old
 test_fi_2142	jaa	Ja	jaa_cLz1gZpSrBc	vahvistavana	Ai angara on se duomio päiwä. Ja tosin, aiwan angara	30:32	1650	old
-test_fi_2143	jaa	Jaa		definition: Kyllä, hyvin usein tapahtuu virheitä pellon ajamisessa.	Eikö tapahdu joita kuita erehdyxia itse pellon ajamisesa? Wast. Jaa, Aiwan monda	64:67	1750	new
+test_fi_2143	jaa	Jaa		Kyllä, hyvin usein tapahtuu virheitä pellon ajamisessa.	Eikö tapahdu joita kuita erehdyxia itse pellon ajamisesa? Wast. Jaa, Aiwan monda	64:67	1750	new
 test_fi_2144	jaa	Ja	jaa_DmQn66APWoo	niin, no	waicka hen [kuolema] ombi catkera ia caruas, nin eipe hen quitengan ole nin cauhistapa eike pelettepä, Ja, hen on paramin tarpelinen	103:105	1543	old
 test_fi_2145	jaa	Jaa		"""Jaa"" tarkoittaa tässä esimerkissä ilmaisun ""se tosin säätä"" hyväksymistä tai myöntämistä."	Mixi niin [pakenet], kysyi Kukko? se yhteinen rauha mahta suojella sinua. Jaa, sanoi Kettu, sen se tosin säätä	74:77	1750	new
 test_fi_2146	jaa	Ja	jaa_JIDvqv7Ta54	etenkin kysymykseen myönteisesti vastattaessa: kyllä	Wskokos sen? Sanoi hen henelle, Ja Herra, Mine Uskon	32:34	1543	old
@@ -2352,7 +2352,7 @@ test_fi_2357	hioa	hijjoi		leikata kynsiään	[Vaimo] leikkais kahdella sormella 
 test_fi_2358	hioa	hijopi		Hijopi tarkoittaa tässä yhteydessä jotain epämääräistä tai vaikeasti määriteltävää asiaa tai ilmiötä.	Weden wäändäpi – – silmistäni, Hijen hiuxista hijopi, Poski päästä pusertapi, Muistuisa mieleheni Wihollinen wenäläinen	46:52	1700	new
 test_fi_2359	hioa	hioi		Mettä-Sika hioi hampaitaan yhtä puuta vasten.	Mettä-Sika hioi hampaitaan yhtä puuta wasten	11:15	1750	new
 test_fi_2360	hioa	hiwot		Hiwot tarkoittaa hirven hammasta, joka on suuren kokoinen ja terävä.	[Minua kuolema] etzit einehexi Suwaitzet suurus palaxi hiwot hirwi hammastasi	55:60	1700	new
-test_fi_2361	hioa	hiwott'		"Definition: ""hiwott"" refers to a Finnish word that means 'already sharpened.'"	hiwott' on jo kirwehen	0:7	1750	new
+test_fi_2361	hioa	hiwott'		"""hiwott"" refers to a Finnish word that means 'already sharpened.'"	hiwott' on jo kirwehen	0:7	1750	new
 test_fi_2362	paavi	Paweild	paavi_cLQk3y4C8ko	roomalaiskatolisesta, paavin johtamasta kirkosta; sen opista, paavinuskosta	[Ruotsin kuninkaat ovat] Paweild ajateldun taickaolisen Jumalan palweluxen, tästä waldacunnast häwittänet	25:32	1650	old
 test_fi_2363	paavi	Paawin		Paawin tarkoittaa tässä yhteydessä henkilön nimeä, joka on Paawin walda.	Paawin walda piti häwitettämän	0:6	1750	new
 test_fi_2364	paavi	Paawin	paavi_cLQk3y4C8ko	roomalaiskatolisesta, paavin johtamasta kirkosta; sen opista, paavinuskosta	monda Caupungita ia paicka – – owat nyt Paawin pimeydellä – – täytetyt	40:46	1600	old
@@ -2408,7 +2408,7 @@ test_fi_2413	läkähtyä	läkähdyi	laekaehtyae_cQCZ_xXBFY8	tukehtua, kuolla tuk
 test_fi_2414	läkähtyä	läkettyi	laekaehtyae_cQCZ_xXBFY8	tukehtua, kuolla tukehtumalla; hukkua	Lauma söxijn Meren, ia läkettyi	23:31	1543	old
 test_fi_2415	läkähtyä	Läketyneest	laekaehtyae_5lEgbYizLMg	eläimen ruhosta, josta ei ole laskettu verta	nijste, iotca ouat epeiumaloille wffratut, ia Wereste, ia Läketyneest	58:69	1543	old
 test_fi_2416	läkähtyä	Läkectynest	laekaehtyae_5lEgbYizLMg	eläimen ruhosta, josta ei ole laskettu verta	[Pidättäytykää] Epeiumaloidhen Wffrista ia weresta ia Läkectynest	54:65	1543	old
-test_fi_2417	läkähtyä	läkähdy		definition: Hevonen saa juoda kaiken savun sisäänsä; kuitenkin annetaan hevosen välillä nostaa turpaansa ylös, ettei se tukehdu.	[Hevonen] saa särpää kaiken sawun sisäänsä; kuitengin annetaan Hewoisen välistä nostaa turpaansa ylös, ettei se läkähdy	112:119	1750	new
+test_fi_2417	läkähtyä	läkähdy		Hevonen saa juoda kaiken savun sisäänsä; kuitenkin annetaan hevosen välillä nostaa turpaansa ylös, ettei se tukehdu.	[Hevonen] saa särpää kaiken sawun sisäänsä; kuitengin annetaan Hewoisen välistä nostaa turpaansa ylös, ettei se läkähdy	112:119	1750	new
 test_fi_2418	läkähtyä	läkehdyit	laekaehtyae_cQCZ_xXBFY8	tukehtua, kuolla tukehtumalla; hukkua	se Lauma söxihin cohdastans merehen – – Ja läkehdyit merehen	43:52	1543	old
 test_fi_2419	läkähtyä	läkähdyisit	laekaehtyae_cQCZ_xXBFY8	tukehtua, kuolla tukehtumalla; hukkua	Monicahdat myös syömisen kiruhtamisest puhaldawat Sieramillans, nijn cuin ikänäns he läkähdyisit	85:96	1650	old
 test_fi_2420	läkähtyä	läkähttynyttä	laekaehtyae_5lEgbYizLMg	eläimen ruhosta, josta ei ole laskettu verta	[Apostolit] kiälsit werta syömäst ia läkähttynyttä	37:50	1650	old
@@ -2620,7 +2620,7 @@ test_fi_2625	johdattaa	iodhata	johdattaa_l0tx4WJkJ68	ohjata, viedä; opastaa, ne
 test_fi_2626	johdattaa	johdattaxeni		Minä rupeaisin heidän käteensä ja johdattaisin heidät Egyptin maalta.	minä heidän käteens rupeisin, heitä Egyptin maalda johdattaxeni	51:63	1750	new
 test_fi_2627	johdattaa	johdatan		Johdatan mieleen: saan jonkin asian tai tapahtuman tulemaan mieleen tai muistumaan mieleen. Johdatan Jesu waiwas waikian: johdatan Jeesuksen kärsimyksen tai tuskan mieleen tai muistumaan mieleen.	mieleen johdatan, Jesu waiwas waikian	8:16	1700	new
 test_fi_2628	johdattaa	johdatta		Mies johdatti waimonsa viisaasti.	Mies johdatta waimons wijsaasti	5:13	1700	new
-test_fi_2629	johdattaa	johdatettaman		definition: Magdalena Charlottan piti saada kirje käsiinsä johdatettuna.	[Kirje] Magdalena Charlottan käsiin piti johdatettaman	41:54	1750	new
+test_fi_2629	johdattaa	johdatettaman		Magdalena Charlottan piti saada kirje käsiinsä johdatettuna.	[Kirje] Magdalena Charlottan käsiin piti johdatettaman	41:54	1750	new
 test_fi_2630	johdattaa	iohdatettu	johdattaa_IiH91qOMGn0	siirtää asia toisen henkilön vastattavaksi	wastakan se syyn, ionga tygö iohdatettu on	29:39	1543	old
 test_fi_2631	johdattaa	johdatta		ohjata oikealle tielle	walkeudes ja totudes – – johdatta oikiaa tietä	25:33	1700	new
 test_fi_2632	johdattaa	johdattanut		Hän on opettanut ja kirjallisesti avustanut lapsensa kehitystä ja etenemistä.	[Lapsensa] Hän itse on opettanut ja kirjallisisa awuisa johdattanut	56:67	1750	new
@@ -3564,7 +3564,7 @@ test_fi_3571	osattaa	osattaa		Palowijnan pannuun pitää teettää sellainen hat
 test_fi_3572	osattaa	osatit	osattaa_VGG1MTWdBQg	antaa, tehdä osalliseksi jostakin	laijna minulle se Armo, iongas minullen osatit teruehydhexi	40:46	1543	old
 test_fi_3573	osattaa	osattamisexi		Toivomme sydämellisesti kuninkaalle ja koko kuninkaalliselle huoneelle kaikkea kuninkaallista onnellisuutta ja korkeaa menestystä.	Teidän mieli hywänne ja ilonne tästä Kuningan kallihista Armosta on ilman epäilemätä Sydämmellinen; ja sen osattamisexi toiwotamme me yximjelisesti Kuningalle ja koko sille Kuningalliselle huonelle kaickia Kuningallista onnellisutta ja korkiata menestystä	107:119	1750	new
 test_fi_3574	osattaa	osatti		Toinen osa hänen [Lutherin] kirjoituksistaan oli, joissa hän käsitteli Pawilaisten villitystä ja tyranniaa.	Toinen osa hänen [Lutherin] kirjoituxistans oli, joisa hän osatti Pawilaisten willityxen ja tyranneuden	59:65	1700	new
-test_fi_3575	osattaa	osatta		"""Kaikki Arwio Längdit on asetettu samalla tavalla kuin seuraava Esimerkki osaa."""	pitä caicki Arwio Längdit oleman sillä tawalla asetetut, cuin tykönä seurawa Esimercki osatta	87:93	1700	new
+test_fi_3575	osattaa	osatta		Osattaa tarkoittaa suomen kielen vanhentunutta muotoa sanoista 'osa' ja 'taitaa', mikä merkitsee 'osata'. Siinä yhteydessä se tarkoittaa kykyä tai taitoa suorittaa jotakin tai hallita jotakin taitoa tai tietoa.	pitä caicki Arwio Längdit oleman sillä tawalla asetetut, cuin tykönä seurawa Esimercki osatta	87:93	1700	new
 test_fi_3576	oblaatti	oblatein	oblaatti_KXYlntyFXMI	öylätti, ehtoollisleipä	Jos wijnan ia oblatein putumisen tähdhen, eij saa mesz[u] pitä, eikö sairan tyge mennä, pitä cummangin kir[cko]verdin sacco tekemän	14:22	1600	old
 test_fi_3577	oblaatti	oblatein		Rahaa Communion-winan ja oblatein ylesostamisexi, annetan samalla muotoa kuin wärwingi-Sotawäelle.	[Julkisia töitä tekeville] rahaa Communion-winan ja oblatein ylesostamisexi, annetan samalla muotoa kuin wärwingi-Sotawäelle	52:60	1750	new
 test_fi_3578	oblaatti	oblatin	oblaatti_KXYlntyFXMI	öylätti, ehtoollisleipä	Näin syöwät myös ne yhdestä leiwästä, jotca Ehtolises ottawat cukin wähän leiwän, eli oblatin	86:93	1600	old
@@ -3852,7 +3852,7 @@ test_fi_3859	juuri	iwri	juuri_xwtLEXonVcU	sukujuurista, sukupuun haaroista	Sen p
 test_fi_3860	juuri	juuri		Kolme juuri uutta lystillistä Ajan Wietettä tarkoittaa kolmea aivan uutta ja hauskaa tapaa viettää aikaa.	Kolme juuri uuta lystillistä Ajan Wietettä	6:11	1750	new
 test_fi_3861	juuri	iuri	juuri_teM5kwfYqMQ	aivan, täysin, kokonaan; peräti	Jumala serkepi sinun iuri coconans	21:25	1543	old
 test_fi_3862	juuri	juuresta		perusteellisesti tai perinpohjaisesti	jos heitä tutkitan juuresta saakka	19:27	1750	new
-test_fi_3863	juuri	juurta		"""qwinttijni: ei tunneta määritelmää"	qwinttijni, Kuoleman kouran juurta	28:34	1750	new
+test_fi_3863	juuri	juurta		Kuoleman kouran juurta on idiom, joka kuvaa tilannetta, jossa jokin asia tai tilanne on erittäin vaarallinen, uhkaava tai hankala, aiheuttaen suurta pelkoa tai ahdistusta. Juurta tässä yhteydessä viittaa syvälle juurtuneeseen ja vaikeasti hallittavaan tilanteeseen tai ongelmaan.	qwinttijni, Kuoleman kouran juurta	28:34	1750	new
 test_fi_3864	juuri	juuret		Yhdes sutten silmäin juuret tarkoittaa syvää yhteyttä tai perustaa, joka on olemassa susien välillä.	Yhdes sutten silmäin juuret	21:27	1700	new
 test_fi_3865	juuri	juurisa		reiden juurisa tarkoittaa reiden yläosaa, lähellä lonkkaniveltä	joss rauhaisia on kainalon alla ja reiden juurisa	42:49	1750	new
 test_fi_3866	juuri	iwresta	juuri_xwtLEXonVcU	sukujuurista, sukupuun haaroista	Mine olen Dauidin iwresta ia Sughusta	18:25	1543	old
@@ -3886,7 +3886,7 @@ test_fi_3893	juuri	Jwri	juuri_aLX9OcGOl0w	nimenomaan, nimenomaisesti; suorastaan
 test_fi_3894	juuri	juuri		punajuuri	Tämä juuri [= punajuuri] kaswaa jokaitzesa maan laisa	5:10	1750	new
 test_fi_3895	juuri	iwri	juuri_Ue0cUyG5ZaM	hyvin, sangen, varsin, kovin, erittäin; kovasti	sangen Jalo, ia iwri caunis Rucous	16:20	1543	old
 test_fi_3896	juuri	juuri		ei ole täysin musta, vaan muistuttaa enemmän pronssia	Hejän [intiaanien] muotonsa ej ole juuri musta waan wasken kaltainen	35:40	1750	new
-test_fi_3897	juuri	Juuresa		"""Juuresa heinän sato on"" - ""Juuresa"" viittaa tässä todennäköisesti johonkin juurikasviin tai juurikasvien satoon. Tarkkaa määritelmää ei kuitenkaan ole annettu, joten tarkkaa vastausta ei voida antaa."	Juuresa heinän sato on	0:7	1700	new
+test_fi_3897	juuri	Juuresa		Juuresa heinän sato on - termiä käytetään kuvaamaan heinäsadon määrää, joka on peräisin juurista tai juuristosta. Tämä voi viitata esimerkiksi nurmikasvien, kuten apilan tai timotein, juuristossa olevan biomassan määrään, joka on osa kokonaissatoa.	Juuresa heinän sato on	0:7	1700	new
 test_fi_3898	juuri	juuret		Raketin juuret tarkoittavat sen osia, jotka ovat kiinni maassa tai muussa alustassa.	Raket olit aiwan suuret – – ei jään muut cuin juuret	46:52	1700	new
 test_fi_3899	juuri	juuri		Jumalan Huone on Jumalan astinlaudan juuri	Jumalan Huone [on] – – niinkuin Jumalan astinlaudan juuri	52:57	1750	new
 test_fi_3900	juuri	jwri	juuri_Ue0cUyG5ZaM	hyvin, sangen, varsin, kovin, erittäin; kovasti	se wijmeinen päiwä eij ole sillen caucana, mutta jwri läsnä	49:53	1600	old
@@ -4386,7 +4386,7 @@ test_fi_4393	laidun	laidhunda	laidun_rdQYx-KszL0	niitty tms. alue, josta kotiel�
 test_fi_4394	laidun	laidun		Kusa laidun on hyvä.	kusa laidun on hywä	5:11	1750	new
 test_fi_4395	laidun	laitumesa		toisen ajaman auton varastamista tai ryöstämistä	ei pidä kenengän ajaman – – carjans toisen eriomasa metzesä eli laitumesa	64:73	1700	new
 test_fi_4396	laidun	Laijdhuinda	laidun_rdQYx-KszL0	niitty tms. alue, josta kotieläimet ottavat itse ravintonsa	etteij heille [karjalaumoille] ole Laijdhuinda	35:46	1543	old
-test_fi_4397	isä	Isijn		Definition: Isijn refers to the father's affection and care towards his children.	Mitä Äitein welwollisudesta [lapsiaan kohtaan] – – mainittu on, nijn se ulottu myös Isijn	84:89	1750	new
+test_fi_4397	isä	Isijn		Isijn refers to the father's affection and care towards his children.	Mitä Äitein welwollisudesta [lapsiaan kohtaan] – – mainittu on, nijn se ulottu myös Isijn	84:89	1750	new
 test_fi_4398	isä	Isäxi		Jumala, jota kutsutaan myös suuresta syystä Laupiuden Isäksi	[Jumala] myös suuresta syystä cutzutan: Laupiuden Isäxi	50:55	1700	new
 test_fi_4399	isä	ises	isae_upwohgEnJ1E	mies suhteessa lapseensa	Cunnioita sinun ises, ia sinun eites	16:20	1543	old
 test_fi_4400	isä	Isen	isae_cSNDmhShnXA	paholaisesta luomakunnan pahana hallitsijana	Sijte Iseste Perkelest te oletta, Ja teiden Isen himot te tadhotta nouta	44:48	1543	old
@@ -4774,7 +4774,7 @@ test_fi_4781	kantaa	cannoi	kantaa_akchmQvF3CY	ihmisistä ja eläimistä: olla ra
 test_fi_4782	kantaa	canda		Canda tarkoittaa tässä yhteydessä henkilön päälle kohdistuvaa fyysistä väkivaltaa tai hyökkäystä.	mahtawat Cruunun Palweljat – – Kärejäsä hänen päällens canda	55:60	1700	new
 test_fi_4783	kantaa	kanda		Kaula kanda koko pään	Kaula kanda koko pään	6:11	1750	new
 test_fi_4784	kantaa	candavat	kantaa_5CLmoe7dO6s	tuntea (vihaa, huolta jne.)	Hengi ja liha, candavat vihaa	15:23	1600	old
-test_fi_4785	kantaa	canda		Ann maa täällä caswons canda tarkoittaa jotain, mutta tarkkaa määritelmää ei ole annettu.	Ann maa tääll caswons canda	22:27	1700	new
+test_fi_4785	kantaa	canda		Kantaa tarkoittaa tässä yhteydessä kykyä kestää tai sietää jotain tilannetta tai painetta, usein henkisellä tai emotionaalisella tasolla.	Ann maa tääll caswons canda	22:27	1700	new
 test_fi_4786	kantaa	canda		suuri syy tai huoli	Meill' ombi suuri syy taas murhe-pucu canda	38:43	1700	new
 test_fi_4787	kantaa	canda		Moni ei tunne omia sieluns omaisuuksia, joita hän kuitenkin kantaa päällänsä.	[Moni ei] tunne, omia sieluns omaisuxia, joita hän cuitengin canda päälläns	61:66	1700	new
 test_fi_4788	kantaa	candadhen	kantaa_XH8w4MFoGyM	kärsiä, kestää; vastata jostakin	mengemme sijs nyt wlos – – candadhen henen pilcansa	27:36	1543	old
@@ -4890,7 +4890,7 @@ test_fi_4897	kantaa	cannetan	kantaa_MV7Uz8UKDng	vars.  kantaa jonkun päällekan
 test_fi_4898	kantaa	canda		Canda tarkoittaa tässä yhteydessä iloa, riemua tai hauskanpitoa.	Caxi tietä tijnellä, taicka luo, taicka canda	40:45	1700	new
 test_fi_4899	kantaa	kanda	kantaa_0X4gzO1PB1o	kuljettaa jotakin mukanaan, kädessään, sylissään tms.	kanda mies tulen metzen	0:5	1543	old
 test_fi_4900	kantaa	kanda		Hän otti heidät syliinsä	Hän kanda heitä sylisänsä	4:9	1750	new
-test_fi_4901	kantaa	candaa		Definition: Rännin tulee olla niin vahva, että se kestää puristamisen.	[Rännin] pitä oleman nijn wahwan, että se candaa prässämisen	42:48	1750	new
+test_fi_4901	kantaa	candaa		Rännin tulee olla niin vahva, että se kestää puristamisen.	[Rännin] pitä oleman nijn wahwan, että se candaa prässämisen	42:48	1750	new
 test_fi_4902	langeta	langeisit	langeta_j5R1IhiEKFA	erehtyä, eksyä, hairahtua	Ettei he ychtengen Hulluteen langeisit	29:38	1543	old
 test_fi_4903	langeta	langiawat		Herneet kypsyvät ja muuttuvat pehmeiksi	[Herneet] langiawat cumoon ja matänewät	10:19	1750	new
 test_fi_4904	langeta	langeis	langeta_AvBPNERM2RM	luhistua, sortua; hajota, rappeutua	Jericho [muureineen] langeis mahan	21:28	1543	old
@@ -5580,7 +5580,7 @@ test_fi_5587	leiri	Leiri	leiri_F8YErdwgZXw	paikka, johon joukko ihmisiä on aset
 test_fi_5588	leiri	leirin	leiri_F8YErdwgZXw	paikka, johon joukko ihmisiä on asettautunut majoitukseen, leiriytymispaikka, majapaikka; linnoitus, sotaleiri; ryhmittymä, leirikunta, joukko; myös kuv.	Se joca ei tule ulos leirin ja sotikedon päälle	21:27	1600	old
 test_fi_5589	leiri	legrin	leiri_F8YErdwgZXw	paikka, johon joukko ihmisiä on asettautunut majoitukseen, leiriytymispaikka, majapaikka; linnoitus, sotaleiri; ryhmittymä, leirikunta, joukko; myös kuv.	[Jumala] lähetti yhden Engelin Assyrian legrin	40:46	1600	old
 test_fi_5590	leiri	Leiri		Coco Wiholisen Leiri on paikka tai tapahtuma, johon on hyväksytty osallistujia sisälle.	on coco Wiholisen Leiri sisälle otettu	18:23	1700	new
-test_fi_5591	leiri	leirin		definition: paikka, jossa voi levätä ja rentoutua, ja jossa voi löytää rauhaa ja henkistä tasapainoa	sä löydät lewon leirin Siellä sinun sielullesi	16:22	1750	new
+test_fi_5591	leiri	leirin		paikka, jossa voi levätä ja rentoutua, ja jossa voi löytää rauhaa ja henkistä tasapainoa	sä löydät lewon leirin Siellä sinun sielullesi	16:22	1750	new
 test_fi_5592	leiri	Leiristä		Leiristä tarkoittaa tässä yhteydessä paikkaa, josta Christuxen piti poistua kuoleman uhalla.	Christuxen piti cuoleman ulcona Caupungista ja Leiristä	47:55	1700	new
 test_fi_5593	leiri	Leiriä		Leiriä tarkoittaa tässä yhteydessä maalla oleskelua tai asumista.	[Vihollinen Kyrössä] kesä corteria, Maalla Leiriä macaisi 	43:49	1700	new
 test_fi_5594	leiri	leirins	leiri_UaOA7a6bTb0	pystyttää leiri, leiriytyä; myös kuv.	[Sota Ruotsiin] leirins ja majans asetta ja rakenda	16:23	1600	old
@@ -6766,8 +6766,8 @@ arificial_test_fi_6785	kihlakunnan-vouti	Kihlakunnan	kihlakunnan-vouti_ac5D0j79u
 arificial_test_fi_6786	markka	marcka	markka_evcrBVZ2ie0	markan arvoinen kolikko	Suomessa käytettiin ennen euroa markkaa valuuttana. Markka oli Suomen virallinen valuutta vuosina 1860-2001.	10:16	1600	old
 arificial_test_fi_6787	markka	marcka	markka_evcrBVZ2ie0	markan arvoinen kolikko	Markka oli myös Suomen rahayksikkö ennen euroaikaa. Esimerkiksi 10 markan kolikko oli yleisesti käytetty rahayksikkö.	10:16	1600	old
 arificial_test_fi_6788	myssy	myssyisä	myssy_QpmSOWUJccE	päähine, hilkka	Myssy on päähine, joka peittää pään ja korvat ja joka yleensä on valmistettu neulotusta tai kudotusta materiaalista.	0:8	1650	old
-arificial_test_fi_6789	kajota	cajota	kajota_hFqfRRBW5oo	ottaa käsiteltäväksi, puuttua, sekaantua johonkin	"""Kajota"" tarkoittaa sitä, kun joku henkilö puuttuu tai sekaantuu toisen henkilön asioihin tai päätöksiin ilman lupaa tai pyyntöä. Esimerkki lause: ""Hän ei voi kajota muiden ihmisten henkilökohtaisiin asioihin ilman heidän suostumustaan."""	18:24	1650	old
-arificial_test_fi_6790	kajota	cajota	kajota_hFqfRRBW5oo	ottaa käsiteltäväksi, puuttua, sekaantua johonkin	"Toisessa merkityksessä ""kajota"" voi tarkoittaa sitä, kun joku henkilö ottaa käsiteltäväksi tai puuttuu johonkin konkreettiseen asiaan tai esineeseen. Esimerkki lause: ""Hän ei saa kajota muiden ihmisten omaisuuteen ilman heidän lupaa."""	18:24	1650	old
+arificial_test_fi_6789	kajota	cajota	kajota_hFqfRRBW5oo	ottaa käsiteltäväksi, puuttua, sekaantua johonkin	Hän ei voi kajota muiden ihmisten henkilökohtaisiin asioihin ilman heidän suostumustaan.	18:24	1650	old
+arificial_test_fi_6790	kajota	cajota	kajota_hFqfRRBW5oo	ottaa käsiteltäväksi, puuttua, sekaantua johonkin	Hän ei saa kajota muiden ihmisten omaisuuteen ilman heidän lupaa.	18:24	1650	old
 arificial_test_fi_6791	helvetti	heluetin	helvetti_dJsEvYWch0A	piinallinen, tukala paikka tai olotila	"""Kesäfestarit olivat helvettiä, kun satoi koko viikonlopun ja teltassa oli jatkuvasti kostea ja kylmä olo."""	68:76	1543	old
 arificial_test_fi_6792	helvetti	heluetin	helvetti_dJsEvYWch0A	piinallinen, tukala paikka tai olotila	"""Kun auto hajosi keskellä autiomaata, oli todellinen helvetti odottaa apua tuntikausia paahtavassa auringossa ilman vettä tai ruokaa."""	68:76	1543	old
 arificial_test_fi_6793	kytkeä	Kytki	kytkeae_o4jCI4ktV1Q	sitoa kiinni, kahlita	Hän kytkee kengännauhat tiukasti ennen lenkille lähtöä.	9:14	1650	old
@@ -6799,12 +6799,12 @@ arificial_test_fi_6818	luovuttaa	luowutetut	luovuttaa_v0D5xaLDxz8	turmella, saat
 arificial_test_fi_6819	kumartaa	cumartapa	kumartaa_jTYre_5iqlo	palvottava, palvottu	Jumalaa kumartaessaan ihminen osoittaa kunnioitusta ja palvontaa korkeimmalle voimalle.	59:68	1543	old
 arificial_test_fi_6820	kumartaa	cumartuna	kumartaa_G4F5IpndJIY	kumartuneena	Hän seisoi kumartuneena pöydän yli lukien kirjaa.	24:33	1543	old
 arificial_test_fi_6821	kumartaa	cumartuna	kumartaa_G4F5IpndJIY	kumartuneena	Vanha nainen kumartui varovasti poimimaan lattialta pudonnutta kolikkoa.	24:33	1543	old
-arificial_test_fi_6822	nimin-omattain	niminomattain	nimin-omattain_Zgr8U8uJBgI	erityisesti, varsinkin, juuri	"Nimin-omattain tarkoittaa erityisesti tai juuri tiettyä henkilöä tai asiaa. Esimerkki lauseesta: ""Hän halusi kiittää nimin-omattain juuri sinua avusta."""	65:78	1600	old
-arificial_test_fi_6823	nimin-omattain	Niminomattain	nimin-omattain_E7f9DaO38DE	edellä esitettyä selittämässä: nimittäin	"Nimin-omattain tarkoittaa henkilökohtaisesti tai omakohtaisesti. Esimerkki lauseessa: ""Kerroin hänelle nimin-omattain, miten tilanne vaikutti minuun."""	117:130	1543	old
+arificial_test_fi_6822	nimin-omattain	niminomattain	nimin-omattain_Zgr8U8uJBgI	erityisesti, varsinkin, juuri	Hän halusi kiittää nimin-omattain juuri sinua avusta.	65:78	1600	old
+arificial_test_fi_6823	nimin-omattain	Niminomattain	nimin-omattain_E7f9DaO38DE	edellä esitettyä selittämässä: nimittäin	Kerroin hänelle nimin-omattain, miten tilanne vaikutti minuun.	117:130	1543	old
 arificial_test_fi_6824	kukaan	cucan	kukaan_Tt0DLHc_Z6E	henkilöä tarkoittaen: yksikään, kukaan; ainoastaan perusmuotoisena	Kukaan ei ollut paikalla, kun juhlat alkoivat.	4:9	1543	old
 arificial_test_fi_6825	laukka	laukoi	laukka_vN8SXlk5ETA	sipuli	Laukka tarkoittaa hevosen nopeaa ja voimakasta juoksua, jossa kaikki neljä jalkaa irtoavat maasta samanaikaisesti.	41:47	1543	old
 arificial_test_fi_6826	laukka	laukoi	laukka_vN8SXlk5ETA	sipuli	"Laukka voi myös viitata nopeaan ja kiireiseen liikkumiseen tai juoksuun, esimerkiksi ""hän lähti laukkaamaan kohti maalia""."	41:47	1543	old
-arificial_test_fi_6827	kaakottaa	kakotta	kaakottaa_zoZkT4LNsxw	vuolaasta ja ärsyttävästä tai niskuroivasta puheesta	"""Kaakottaa"" - esimerkki lause: "	12:19	1543	old
+arificial_test_fi_6827	kaakottaa	kakotta	kaakottaa_zoZkT4LNsxw	vuolaasta ja ärsyttävästä tai niskuroivasta puheesta	Kollegan kaakotus kokouksessa vei huomion olennaisista asioista ja teki päätöksenteosta vaikeaa.	12:19	1543	old
 arificial_test_fi_6828	kaakottaa	kakotta	kaakottaa_zoZkT4LNsxw	vuolaasta ja ärsyttävästä tai niskuroivasta puheesta	"""Naapurin lapset kaakottivat kovaäänisesti koko päivän, mikä ärsytti muita asukkaita."""	12:19	1543	old
 arificial_test_fi_6829	oikein	oikemmin	oikein_PsSjbzmSJL0	oikeastaan, paremminkin	Oikeastaan, en haluaisi lähteä ulos tänään.	22:30	1600	old
 arificial_test_fi_6830	oikein	oikemmin	oikein_PsSjbzmSJL0	oikeastaan, paremminkin	Paremminkin, voisin kuvata sitä onnistumiseksi kuin epäonnistumiseksi.	22:30	1600	old
@@ -6831,7 +6831,7 @@ arificial_test_fi_6850	perus	peruxian	perus_aeQlPHZN8PI	rintamaidosta	Perusruoka
 arificial_test_fi_6851	perus	peruxian	perus_aeQlPHZN8PI	rintamaidosta	Peruselintarvike: Rintamaito on tärkeä peruselintarvike, joka tarjoaa vauvalle tarvittavat ravintoaineet kasvua ja kehitystä varten.	152:160	1650	old
 arificial_test_fi_6852	perus	perus	perus_ilWPz0uTktA	pysyvä asuinpaikka	Perusasunto: Pysyvä asuinpaikka, joka tarjoaa perustarpeiden mukaisen asumisen, kuten makuuhuoneen, keittiön ja kylpyhuoneen.	65:70	1600	old
 arificial_test_fi_6853	perus	perus	perus_ilWPz0uTktA	pysyvä asuinpaikka	Peruskoulu: Pysyvä oppilaiden opiskelupaikka, jossa tarjotaan perustason opetusta eri oppiaineissa.	65:70	1600	old
-arificial_test_fi_6854	gradi	Graduxen	gradi_Vt2i70Z3DgA	oppiarvo, virka-aste	"Yksi esimerkki sanasta ""gradi"" seuraavalla määritelmällä voisi olla ""kenraalimajuri""."	94:102	1650	old
+arificial_test_fi_6854	gradi	Graduxen	gradi_Vt2i70Z3DgA	oppiarvo, virka-aste	Hän suoritti yliopistossa kandidaatin tutkinnon ja hankki siten maisterin opiarvon.	94:102	1650	old
 arificial_test_fi_6855	oppinut	oppenuita	oppinut_zyziZT2k4RA	(kirja)oppia, koulutusta, sivistystä saanut; substantiivina	Oppinut professori piti mielenkiintoisen luennon aiheesta.	64:73	1600	old
 arificial_test_fi_6856	koreilla	coreillan	koreilla_Go0p8S_GXxM	koristella, kaunistaa	Hän koreili juhlapöydän kukilla ja kynttilöillä.	79:88	1600	old
 arificial_test_fi_6857	koreilla	coreillan	koreilla_Go0p8S_GXxM	koristella, kaunistaa	Tyttö koreili hiuksensa punaisilla ruseteilla.	79:88	1600	old
@@ -6850,12 +6850,12 @@ arificial_test_fi_6869	myöhä	myöhäx	myoehae_Qkq3WSWpfqY	(liian) myöhäinen;
 arificial_test_fi_6870	myöhä	myöhäx	myoehae_Qkq3WSWpfqY	(liian) myöhäinen; jäljempänä, myöhemmin tapahtuva tai tapahtunut	Lähetin sähköpostin myöhään illalla, joten vastausta ei tullut ennen seuraavaa päivää.	7:13	1543	old
 arificial_test_fi_6871	joulu-paisti	Joulu paisti	joulu-paisti_saBH5uTN5aY	papin joulunaikaan seurakuntalaisilta keräämistä ruoka- ym. lahjoista	Joulu-paisti tarkoittaa papin joulunaikaan seurakuntalaisilta keräämiä ruoka- ja muita lahjoja, joita jaetaan vähävaraisille perheille joulun aikaan.	35:47	1600	old
 arificial_test_fi_6872	joulu-paisti	Joulu paisti	joulu-paisti_saBH5uTN5aY	papin joulunaikaan seurakuntalaisilta keräämistä ruoka- ym. lahjoista	Joulu-paisti viittaa joulun aikaan papin keräämiin ruoka- ja lahjoituslahjoihin, jotka jaetaan seurakunnan jäsenille tarpeen mukaan.	35:47	1600	old
-arificial_test_fi_6873	irtainen	irtainen	irtainen_b1o3QHFNF9g	irtaimesta tavarasta, omaisuudesta	"Esimerkki: ""Hän myi kaikki irtaimet tavaransa ennen muuttoa ulkomaille."""	16:24	1600	old
+arificial_test_fi_6873	irtainen	irtainen	irtainen_b1o3QHFNF9g	irtaimesta tavarasta, omaisuudesta	"Hän myi kaikki irtaimet tavaransa ennen muuttoa ulkomaille."	16:24	1600	old
 arificial_test_fi_6874	irtainen	irtainen	irtainen_Bw1SsyVdRB0	naimaton	Irtainen nainen.	46:54	1650	old
 arificial_test_fi_6875	datum	datumins	datum_CXekxq0TCKs	luottamus, usko	Minulla ei ole minkäänlaista datumia siihen, että hän olisi syyllinen rikokseen.	34:42	1600	old
 arificial_test_fi_6876	datum	datumins	datum_CXekxq0TCKs	luottamus, usko	Hän menetti täysin datuminsa siihen, että yritys pystyisi selviytymään talouskriisistä.	34:42	1600	old
 arificial_test_fi_6877	pelästyä	peliästynyt	pelaestyae_jVOGVM4e_1I	pelokas; säikähtänyt	Kun kuulin äkillisen pamauksen, pelästyin ja hyppäsin ilmaan.	4:15	1600	old
-arificial_test_fi_6878	katumus-psalmi	Catumus Psalmeista	katumus-psalmi_5oQGrDy4BG0	katumusrukouksen sisältävä psalmi	Psalmi 51 on hyvä esimerkki katumuspsalmista.	31:49	1650	old
+arificial_test_fi_6878	katumus-psalmi	Catumus Psalmeista	katumus-psalmi_5oQGrDy4BG0	katumusrukouksen sisältävä psalmi	Psalmi 51 on esimerkki katumuspsalmista, sillä siinä Daavid pyytää anteeksiantoa Jumalalta ja ilmaisee syvän katumuksensa teoistaan.	31:49	1650	old
 arificial_test_fi_6879	ilmoittaminen	ilmoittamisen	ilmoittaminen_r60QVaJpDsQ	ilmestyminen	Uuden tuotteen ilmoittaminen markkinoille herätti suurta kiinnostusta kuluttajien keskuudessa.	29:42	1600	old
 arificial_test_fi_6880	ilmoittaminen	ilmoittamisen	ilmoittaminen_r60QVaJpDsQ	ilmestyminen	Yllättävä uutinen presidentin eroamisesta aiheutti suuren määrän ilmoittamisia eri tiedotusvälineissä.	29:42	1600	old
 arificial_test_fi_6881	ilmoittaminen	Ilmoittamisest	ilmoittaminen_OfR0-lyta0Y	tiedoksi antaminen, julistaminen, paljastaminen	"Ilmoittaminen tarkoittaa tiedon antamista tai tiedon välittämistä toiselle henkilölle tai ryhmälle. Esimerkiksi: ""Opiskelijat saivat ilmoituksen tulevasta tentistä sähköpostitse."""	19:33	1650	old
@@ -6929,8 +6929,8 @@ arificial_test_fi_6948	kalvava	calwawalda	kalvava_kTofVktNrIk	jäytävä, vaivaa
 arificial_test_fi_6949	käräjä-paikka	käreiä paikan	kaeraejae-paikka_jhz7Aj1H6Wo	käräjien pitopaikka, käräjätupa	Käräjä-paikka voi olla esimerkiksi käräjätalo, joka on rakennus tai tila, jossa käräjät pidetään.	33:46	1543	old
 arificial_test_fi_6950	heikko	heicombana	heikko_QLQ8RvoJKhQ	määrältään vähäinen, niukka	Heikko sade ropisi hiljaa ikkunaa vasten.	77:87	1650	old
 arificial_test_fi_6951	kiro	kirot	kiro_aheXfYo5rKU	herjaus	"""Sinä olet täysi kiro!"""	78:83	1543	old
-arificial_test_fi_6952	kiro	kiros	kiro_E8bvlI4E5Zo	(jonkun tuottama tai manaama) onnettomuus, turmio	"""Kiro"" tarkoittaa jonkun tuottamaa tai manaamaa onnettomuutta tai turmiota. Esimerkki lauseessa: ""Hän kiroili ja toivoi koko yrityksen menevän konkurssiin."""	28:33	1543	old
-arificial_test_fi_6953	kiro	kiros	kiro_E8bvlI4E5Zo	(jonkun tuottama tai manaama) onnettomuus, turmio	"""Kiro"" voi viitata myös jonkun tuottamaan tai manaamaan onnettomuuteen tai turmioon. Esimerkki lauseessa: ""Kun hän kuuli uutisen, hän kiroili ja toivoi pahaa kaikille osallisille."""	28:33	1543	old
+arificial_test_fi_6952	kiro	kiros	kiro_E8bvlI4E5Zo	(jonkun tuottama tai manaama) onnettomuus, turmio	Hän kiroili ja toivoi koko yrityksen menevän konkurssiin.	28:33	1543	old
+arificial_test_fi_6953	kiro	kiros	kiro_E8bvlI4E5Zo	(jonkun tuottama tai manaama) onnettomuus, turmio	Kun hän kuuli uutisen, hän kiroili ja toivoi pahaa kaikille osallisille.	28:33	1543	old
 arificial_test_fi_6954	monarkia	Monarchia	monarkia_EUEFxfYlXEY	tällaisen valtion hallitsija	Espanja on monarkia, ja sen hallitsija on kuningas Felipe VI.	23:32	1600	old
 arificial_test_fi_6955	monarkia	Monarchia	monarkia_EUEFxfYlXEY	tällaisen valtion hallitsija	Ruotsi on myös monarkia, ja sen hallitsija on kuningas Carl XVI Gustaf.	23:32	1600	old
 arificial_test_fi_6956	kapitlum	Capitlum	kapitlum_sU0C2TkP5MA	kirjan luku	"""Kapitlum"" tarkoittaa kirjan luvun otsikkoa tai nimeä, joka erottaa luvun muista osista."	73:81	1600	old
@@ -6958,7 +6958,7 @@ arificial_test_fi_6977	aika	ajan	aika_PpjlA_jDn3A	aikojen kuluessa, ajan mittaan
 arificial_test_fi_6978	aika	ajan	aika_PpjlA_jDn3A	aikojen kuluessa, ajan mittaan	Ajan mittaan ystävyytemme on syventynyt ja vahvistunut.	97:101	1650	old
 arificial_test_fi_6979	aika	Aica	aika_9Gs--YHQnME	adverbin luonteisesti: myöhäistä	"""Hän saapui aika myöhään juhliin."""	0:4	1600	old
 arificial_test_fi_6980	aika	Aica	aika_9Gs--YHQnME	adverbin luonteisesti: myöhäistä	"""Lähdemme aika myöhään huomenna aamulla."""	0:4	1600	old
-arificial_test_fi_6981	aika	aikana	aika_YEb10AiQsU0	liian aikaisin	"Esimerkki: ""Lähdin kotoa aika aikaisin, joten olin perillä ennen muita."""	13:19	1600	old
+arificial_test_fi_6981	aika	aikana	aika_YEb10AiQsU0	liian aikaisin	"Lähdin kotoa aika aikaisin, joten olin perillä ennen muita."	13:19	1600	old
 arificial_test_fi_6982	aika	aian	aika_dw_3UumzWug	maanpäällinen aika tai elämä )( iankaikkisuus	Maanpäällinen aika: Ihmisen elämä on rajallinen aika, joka alkaa syntymästä ja päättyy kuolemaan.	3:7	1600	old
 arificial_test_fi_6983	aika	aian	aika_dw_3UumzWug	maanpäällinen aika tai elämä )( iankaikkisuus	Iankaikkisuus: Uskonnollisessa kontekstissa iankaikkisuus viittaa ajattomuuteen tai loputtomuuteen, joka ylittää maallisen ajan ja jatkuu ikuisesti.	3:7	1600	old
 arificial_test_fi_6984	aika	aican	aika_Cc6QSL6oKIY	toistuvasti	Aika ajoin hän käy kuntosalilla.	38:43	1650	old
@@ -7092,7 +7092,7 @@ arificial_test_fi_7111	kantaa	candaman	kantaa_f1nRCfCxG2U	tuoda takaisin, palaut
 arificial_test_fi_7112	kantaa	candaman	kantaa_f1nRCfCxG2U	tuoda takaisin, palauttaa	Äiti kantoi astiat takaisin keittiöön.	59:67	1543	old
 arificial_test_fi_7113	kantaa	candapi	kantaa_pda0KvHecws	kannattaa, ylläpitää	Hän kannattaa aktiivisesti ympäristöystävällisiä toimintatapoja ja kierrätystä.	16:23	1543	old
 arificial_test_fi_7114	kantaa	candapi	kantaa_pda0KvHecws	kannattaa, ylläpitää	Vanhempien tehtävä on ylläpitää lastensa terveyttä ja hyvinvointia tarjoamalla heille terveellistä ruokaa ja liikuntamahdollisuuksia.	16:23	1543	old
-arificial_test_fi_7115	kantaa	kanda	kantaa_8Un1pTkGVuo	esittää viranomaisille, viedä oikeuteen	"Kantaa: Esimerkki sanan ""kantaa"" käytöstä määritelmällä ""esittää viranomaisille, viedä oikeuteen"" voisi olla: ""Hän päätti kantaa asiaa korkeimpaan hallinto-oikeuteen."""	19:24	1543	old
+arificial_test_fi_7115	kantaa	kanda	kantaa_8Un1pTkGVuo	esittää viranomaisille, viedä oikeuteen	Hän päätti kantaa asiaa korkeimpaan hallinto-oikeuteen.	19:24	1543	old
 arificial_test_fi_7116	kantaa	cautta	kantaa_KivWBsYOS8s	ruumiinosista ja -ominaisuuksista; ihmisen henkisistä ominaisuuksista; myös  kuv.	Hänellä on vahva kantamus, joka auttaa häntä kantamaan raskaita taakkoja.	39:45	1543	old
 arificial_test_fi_7117	kantaa	cautta	kantaa_KivWBsYOS8s	ruumiinosista ja -ominaisuuksista; ihmisen henkisistä ominaisuuksista; myös  kuv.	"Ihmisen henkisistä ominaisuuksista: ""Hänellä oli aina myötätuntoinen kanta vaikeisiin tilanteisiin, mikä teki hänestä luotettavan neuvonantajan."""	39:45	1543	old
 arificial_test_fi_7118	kantaa	cautta	kantaa_KivWBsYOS8s	ruumiinosista ja -ominaisuuksista; ihmisen henkisistä ominaisuuksista; myös  kuv.	Kantaa (ihmisen henkisistä ominaisuuksista): Hänellä on suuri kantamus empatiaa, joka tekee hänestä erinomaisen kuuntelijan.	39:45	1543	old
@@ -7216,7 +7216,7 @@ arificial_test_fi_7235	määrä	määrällä	maeaerae_hrKZAvluN7c	sopivassa mä�
 arificial_test_fi_7236	määrä	määrällä	maeaerae_hrKZAvluN7c	sopivassa määrin, sopivasti	Opiskelija käytti sopivasti aikaa jokaiseen tehtävään ja sai suoritettua tentin hyvässä määräajassa.	34:42	1650	old
 arificial_test_fi_7237	mutka	mutkihin	mutka_JoEBKgeOiLc	kylän peltojen ja niittyjen epäsäännöllisestä jaosta, muinaisjaosta	Kylän peltojen ja niittyjen epäsäännöllinen jako muinaisjaon perusteella aiheutti monia mutkia maanomistuksessa.	18:26	1600	old
 arificial_test_fi_7238	mutka	mutkihin	mutka_JoEBKgeOiLc	kylän peltojen ja niittyjen epäsäännöllisestä jaosta, muinaisjaosta	Muinaisjaon seurauksena kylän alueella oli useita mutkia, kun peltojen ja niittyjen rajat eivät olleet suoraviivaisia.	18:26	1600	old
-arificial_test_fi_7239	mutka	mutkia	mutka_F9Wy-sT0bck	asian (saama) käänne, muutos; epävakaisuus, oikullisuus; vaikeus, hankaluus	"Tilanne, jossa suunnitelmat muuttuvat äkillisesti ja aiheuttavat vaikeuksia, on esimerkki sanan ""mutka"" määritelmästä."	62:68	1600	old
+arificial_test_fi_7239	mutka	mutkia	mutka_F9Wy-sT0bck	asian (saama) käänne, muutos; epävakaisuus, oikullisuus; vaikeus, hankaluus	Suhteeni häneen oli täynnä mutkia ja epävarmuutta, mikä teki sen säilyttämisestä haastavaa.	62:68	1600	old
 arificial_test_fi_7240	mutka	mutcall	mutka_W3V9FSePq1U	vaatteen kirjailusta	Vaatteen kirjailusta tehty mutka koristaa hienosti hameen helmaa.	23:30	1600	old
 arificial_test_fi_7241	mutka	mutcain	mutka_OOpbXCuf97s	laulun sävelkulusta	Kappaleen sävelkulku kulkee tasaisesti eteenpäin, kunnes se yhtäkkiä tekee mutkan ja laskee alaspäin.	24:31	1600	old
 arificial_test_fi_7242	mutka	mutcain	mutka_OOpbXCuf97s	laulun sävelkulusta	Laulun sävelkulku sisältää useita mutkia, kun se vaihtelee korkealta matalalle ja takaisin korkealle.	24:31	1600	old
