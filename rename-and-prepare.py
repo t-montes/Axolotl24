@@ -2,7 +2,7 @@ import glob
 import pandas as pd
 import os
 
-TRACK = 'track2'
+TRACK = 'track1'
 
 predictions_folder = 'predictions'
 files = glob.glob(f'{predictions_folder}/**/*.tsv', recursive=True)
@@ -22,7 +22,7 @@ for path, d in dfs.items():
         df = df[~df.usage_id.str.contains("arificial")]
         
         filename = filename.replace('.', '_').replace('_tsv', '.tsv').replace('axolotl', TRACK)
-        if not os.path.exists(f'./submission/real/{path}'):
-            os.makedirs(f'./submission/real/{path}')
+        if not os.path.exists(f'./submission/{path}'):
+            os.makedirs(f'./submission/{path}')
 
-        df.to_csv(f'./submission/real/{path}/{filename}', sep='\t', index=False)
+        df.to_csv(f'./submission/{path}/{filename}', sep='\t', index=False)
