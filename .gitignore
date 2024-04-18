@@ -4,6 +4,7 @@ embeddings/glosses/*
 embeddings/concatenated/*
 embeddings/non-used/
 data/test-mod/*
+data/augmented/llm-responses/*
 predictions/*
 submission/*
 *.env
